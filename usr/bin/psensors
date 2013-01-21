@@ -1,0 +1,2 @@
+cd /usr/lib/psensors
+python tray.py
